@@ -7,6 +7,7 @@
 	<body>
 		<h1><center>Hello!I'm Jazel Marie☺️</h1></center>
 		<img src="https://i.pinimg.com/736x/56/ee/a2/56eea2d7be846ea680658a1bede42dd6.jpg" alt="quote" class="image1">
+    <hr>
     <br>
     <br>
 		<p style="font-family:tahoma;"><strong>Cloud computing</strong> is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet <strong>(“the cloud”)</strong> to offer faster innovation, flexible resources, and economies of scale.</p>
